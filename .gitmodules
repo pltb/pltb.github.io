@@ -1,0 +1,9 @@
+[submodule "themes/codex"]
+	path = themes/codex
+	url = https://github.com/jakewies/hugo-theme-codex
+[submodule "cfga/themes/codex"]
+	path = cfga/themes/codex
+	url = https://github.com/jakewies/hugo-theme-codex
+[submodule "cfga/themes/terminal"]
+	path = cfga/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
